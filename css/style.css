@@ -926,6 +926,9 @@ section.home.light .social-icons li a:hover {
 /*=================================================================*/
 /*                      SKILLS                              
 /*=================================================================*/
+.skill-item {
+    margin-bottom: 50px;
+}
 .skill-item .skill-info h4 {
   font-size: 16px;
   font-weight: 500;
